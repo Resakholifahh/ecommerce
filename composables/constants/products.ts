@@ -20,7 +20,7 @@ export const products = [
     {
       id: 3,
       name: "Figura Zoro",
-      category: "Hiasan ruangan",
+      category: "Aksesori",
       price: 15,
       image: "/images/produk3.jpg",
       isCart: false,
